@@ -1,11 +1,11 @@
 <h1 align="center">Hey Peep, Pinto here</h1>
-<h3 align="center">Empowering Experiences, Code Crafting Maestro: Full-Stack Mastery, SDE Prowess, DSA Virtuoso from India!</h3>
+<h3 align="center">Empowering Experiences, Code Crafting Maestro: Full-Stack, SDE Prowess, DSA Virtuoso from India!</h3>
 
 - 🌱 I’m currently into **Angular,Vue**
 
 - 👨‍💻 All of my projects are available here at [https://github.com/pintoraj](https://github.com/pintoraj)
 
-- 💬 Ask me about **Java, Python, Java**
+- 💬 Ask me about **JavaScript, Python, Java**
 
 - 📫 How to reach me **mailtopintoraj@gmail.com**
 
