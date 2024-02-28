@@ -1,10 +1,9 @@
-<div style="text-align: center;">
+<center>
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
-</div>
-<div style="text-align: center;">
-  <h1>Hey Peep, Pinto here! 🚀</h1>
-  <h3>Crafting Empowering Experiences: Full-Stack Maestro, SDE Wizard, DSA Virtuoso from India! 🌟</h3>
-</div>
+</center>
+
+<h1 align="center">Hey Peep, Pinto here! 🚀</h1>
+<h3 align="center">Crafting Empowering Experiences: Full-Stack Maestro, SDE Wizard, DSA Virtuoso from India! 🌟</h3>
 
 - 🌱 I’m currently into **Angular,Vue**
 
