@@ -1,8 +1,8 @@
 <h1 align="center">Hey Peep, Pinto here</h1>
 <h3 align="center">Empowering Experiences, Code Crafting Maestro: Full-Stack, SDE Prowess, DSA Virtuoso from India!</h3>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="400">
-<br><be>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+<br><br>
 
 
 - 🌱 I’m currently into **Angular,Vue**
