@@ -1,7 +1,7 @@
 <h1 align="center">Hey Peep, Pinto here</h1>
 <h3 align="center">Empowering Experiences, Code Crafting Maestro: Full-Stack, SDE Prowess, DSA Virtuoso from India!</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
 <br><br>
 
 
