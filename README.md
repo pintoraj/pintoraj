@@ -1,9 +1,9 @@
-<h1 align="center">Hey There, Pinto here</h1>
+<h1 align="center">Hey Peep, Pinto here</h1>
 <h3 align="center">Empowering Experiences, Code Crafting Maestro: Full-Stack Mastery, SDE Prowess, DSA Virtuoso from India!</h3>
 
-- 🌱 I’m currently learning **Angular,Vue**
+- 🌱 I’m currently into **Angular,Vue**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pintoraj](https://github.com/pintoraj)
+- 👨‍💻 All of my projects are available here at [https://github.com/pintoraj](https://github.com/pintoraj)
 
 - 💬 Ask me about **Java, Python, Java**
 
