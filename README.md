@@ -1,8 +1,10 @@
 <h1 align="center">Hey Peep, Pinto here</h1>
 <h3 align="center">Empowering Experiences, Code Crafting Maestro: Full-Stack, SDE Prowess, DSA Virtuoso from India!</h3>
 
-<img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/95185e07-8f10-47db-85ae-b11c472f35ab" width="200">
-<br><br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="400">
+<br><be>
+
+
 - 🌱 I’m currently into **Angular,Vue**
 
 - 👨‍💻 All of my projects are available here at [https://github.com/pintoraj](https://github.com/pintoraj)
