@@ -34,6 +34,6 @@
 <h3 align="left">Survival Skills:</h3>
 - 🔎 Can Google solutions faster than Stack Overflow loads.  
 - 🐛 Professional bug whisperer.  
-- 🧠 Writes code that *sometimes* works on the first attempt (don’t ask how).  
+- 🧠 Writes code that *sometimes* works on the first attempt (don’t ask how, even i'm not aware).  
 
 ✨ If you’ve made it this far, you deserve a cookie. Let's connect and build cool stuff together!
