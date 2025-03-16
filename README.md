@@ -1,4 +1,4 @@
-<h1 align="center">Hey Peep, Pinto here! 🚀</h1>
+<h1 align="center">Hey Peep, Pint0 here! 🚀</h1>
 
 <h3 align="center">Code, Coffee, Repeat ☕ | Full-Stack Adventurer | DSA Juggler | Debugging Therapist 💻</h3>
 
