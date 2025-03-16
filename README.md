@@ -2,7 +2,8 @@
 
 <h3 align="center">Code, Coffee, Repeat ☕ | Full-Stack Adventurer | DSA Juggler | Debugging Therapist 💻</h3>
 
-- 🔥 Currently battling Angular and Vue... because why not master two frameworks at once?  
+- 🌩️ Currently wrestling with **AWS Cloud** and **AI/ML** — because apparently, mastering just *one* mind-bending domain isn’t chaotic enough!  
+- 🤖 Training ML models like they owe me money (no offense) while configuring AWS services like I’m defusing a digital bomb (i don't want to pay charges again bruh).  
 - 🎯 Fluent in **Java, Python, JavaScript** — Basically, if it compiles, I code it.  
 - 🛠️ Tools of my trade: **React**, **PHP**, **MySQL**, **Firebase**, **Hostinger**, and **XAMPP** (because we all love debugging locally...right?).  
 - 🤖 Not a magician, but I do know my way around **AI/ML** models and *kinda* make them smart.  
